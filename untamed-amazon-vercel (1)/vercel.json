@@ -4,8 +4,8 @@
   "trailingSlash": false,
   "redirects": [
     {
-      "source": "/",
-      "destination": "/marie01",
+      "source": "/marie01",
+      "destination": "/index.html",
       "permanent": false
     }
   ]
