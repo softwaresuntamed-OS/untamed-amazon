@@ -1,0 +1,21 @@
+UNTAMED AMAZON · PUBLICAÇÃO NA VERCEL
+Endereço planejado: https://untamed-amazon.com/marie01
+
+1. Descompacte este ZIP.
+2. Envie index.html, marie01.html, social-preview.jpg e vercel.json para a raiz de um repositório GitHub. Se você já enviou o pacote anterior para um repositório dedicado a esta LP, substitua esses arquivos pelos atuais e acrescente marie01.html.
+3. Na Vercel, escolha Add New > Project, conecte o GitHub e importe o repositório.
+4. Framework Preset: Other. Root Directory: raiz do repositório. Build Command: vazio, sem comando de build. Output Directory: . (ponto).
+5. Clique em Deploy. Ao concluir, teste a URL que a Vercel gerar, acrescentando /marie01.
+6. No projeto, abra Settings > Domains > Add Domain e adicione somente untamed-amazon.com. O trecho /marie01 é uma página do site e já está configurado nos arquivos.
+7. Na GoDaddy, abra o domínio e o gerenciamento de DNS. Copie exatamente o tipo, nome e valor dos registros que a Vercel pedir para o domínio. Edite apenas os registros indicados; preserve os registros de e-mail e os demais serviços.
+8. Volte à Vercel e aguarde a validação do domínio e do HTTPS.
+9. Abra https://untamed-amazon.com/marie01 e faça um cadastro de teste autorizado. Confirme a conversão na conta RD Station antes de começar os anúncios.
+
+SOBRE OS ARQUIVOS
+marie01.html é a landing page completa, com fotos, estilos e fontes incorporados.
+vercel.json habilita endereços sem .html: marie01.html será servido em /marie01. O endereço raiz redireciona temporariamente para /marie01; isso pode ser ajustado quando existir uma página inicial própria.
+index.html é o redirecionamento de apoio.
+social-preview.jpg é a imagem para compartilhamento.
+O formulário oficial da RD Station está incorporado com seu ID e argumentos originais. O carregamento foi conferido; uma conversão real ainda não foi enviada.
+
+Para abrir o conteúdo no computador antes de publicar, abra marie01.html. O formulário depende de internet.
